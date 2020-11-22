@@ -1,4 +1,4 @@
-## Javascript 수업
+## Javascript
 
 ### Ch01
 ```
